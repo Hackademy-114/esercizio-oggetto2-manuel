@@ -36,10 +36,7 @@
 // }
 // findPython(list)
 
-
 //FINE ESERCIZIO 1
-
-
 
 
 
